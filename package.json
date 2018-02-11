@@ -1,0 +1,21 @@
+{
+  "name": "quiz-portal-nodejs",
+  "version": "1.0.0",
+  "description": "quiz portal for manthan 18",
+  "main": "index.js",
+  "author": "mrinal raj (github.com/mrinalraj)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.1",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.2.1",
+    "mongoose": "^4.11.14"
+  }
+}
